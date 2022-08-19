@@ -6,6 +6,4 @@ Do be aware that you must do:
 
 pip install -r requirements.txt
 ^
-or "pip3"
-
-before running this script.
+or pip3
