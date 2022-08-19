@@ -5,5 +5,8 @@ This is a simple python script that works on macOS, Windows, and Linux that scra
 Do be aware that you must do:
 
 pip install -r requirements.txt
-^
-or pip3
+
+
+macOS and Linux users can use:
+
+pip3 install -r requirements.txt
