@@ -7,9 +7,6 @@ def adaptive_clear():
     os.system("clear") if os.name == "posix" else os.system("cls")
 
 
-id = ""
-device = ""
-
 Models = """
     Powered by: ipsw.me
 
@@ -52,7 +49,7 @@ Models = """
     """
 
 Models_Try_Again = f"""
-   {Models}
+    {Models}
     Make sure you are only typing the given numbers above (1-34)
 """
 
@@ -232,6 +229,7 @@ phones = {
 }
 
 adaptive_clear()
+SelectionUsed = Models
 
 while True:
     selectedModel = input(f"{SelectionUsed}\niPhone model selected: ")
