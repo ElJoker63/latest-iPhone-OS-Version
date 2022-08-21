@@ -10,3 +10,5 @@ Do be aware that you must do:
 macOS and Linux users can use:
 
 ```pip3 install -r requirements.txt```
+
+## Thanks to [Domefemia](https://github.com/Domefemia) for cleaning up my code.
